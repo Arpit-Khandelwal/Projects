@@ -1,0 +1,12 @@
+[submodule "epic-game"]
+	path = epic-game
+	url = https://github.com/Arpit-Khandelwal/epic-game
+[submodule "Low-power-mode-test"]
+	path = Low-power-mode-test
+	url = https://github.com/Arpit-Khandelwal/Low-power-mode-test
+[submodule "Visual-Cryptography"]
+	path = Visual-Cryptography
+	url = https://github.com/Arpit-Khandelwal/Visual-Cryptography
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = https://github.com/Arpit-Khandelwal/nft-marketplace
